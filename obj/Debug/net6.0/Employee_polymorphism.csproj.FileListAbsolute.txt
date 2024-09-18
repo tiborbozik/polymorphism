@@ -1,0 +1,15 @@
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\bin\Debug\net6.0\Employee_polymorphism.exe
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\bin\Debug\net6.0\Employee_polymorphism.deps.json
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\bin\Debug\net6.0\Employee_polymorphism.runtimeconfig.json
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\bin\Debug\net6.0\Employee_polymorphism.dll
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\bin\Debug\net6.0\Employee_polymorphism.pdb
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\obj\Debug\net6.0\Employee_polymorphism.csproj.AssemblyReference.cache
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\obj\Debug\net6.0\Employee_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\obj\Debug\net6.0\Employee_polymorphism.AssemblyInfoInputs.cache
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\obj\Debug\net6.0\Employee_polymorphism.AssemblyInfo.cs
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\obj\Debug\net6.0\Employee_polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\obj\Debug\net6.0\Employee_polymorphism.dll
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\obj\Debug\net6.0\refint\Employee_polymorphism.dll
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\obj\Debug\net6.0\Employee_polymorphism.pdb
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\obj\Debug\net6.0\Employee_polymorphism.genruntimeconfig.cache
+C:\Users\monic\source\repos\Employee_polymorphism\Employee_polymorphism\obj\Debug\net6.0\ref\Employee_polymorphism.dll
